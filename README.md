@@ -8,7 +8,7 @@ King County House Sales Dataset (kc_house_data.csv) with 21,613 entries and 21 f
 ## Models Applied
 Linear Regression (from sklearn.linear_model), with data preprocessing including outlier removal (Z-score), feature scaling (MinMaxScaler to [1,8] range), and train-test split (80/20).
 
-Key Results and Findings
+## Key Results and Findings
 
 R² Score: 0.736 (testing), explaining ~74% of price variance
 
